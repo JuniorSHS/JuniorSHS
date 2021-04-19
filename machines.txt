@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<title>SLAM5 - TP3</title>
+<body>
+
+<h1>Ça c'est le titre.</h1>
+<p>C'est le paragraphe.</p>
+
+</body>
+</html> 
