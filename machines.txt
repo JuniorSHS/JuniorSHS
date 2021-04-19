@@ -4,7 +4,7 @@
 <body>
 
 <h1>Ça c'est le titre.</h1>
-<p>C'est le paragraphe.</p>
+<p>Bonjour, c'est le nouveau paragraphe.</p>
 
 </body>
 </html> 
